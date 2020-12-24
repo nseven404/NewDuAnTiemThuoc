@@ -1,0 +1,16 @@
+
+-- Phần người nào người nấy sửa, không sửa TODO người khác
+
+TODO của Nam: 
+- Tạo tab danh sách loại thuốc  (chưa xong)
+
+
+TODO Vũ :
+- Thêm combo đơn vị tính vào danh sách thuốc và danh sách lô thuốc (chưa xong)
+- Thêm function ẩn hiện slider item vào slider Scontrol (chưa xong)
+
+
+TODO Hải: 
+- Tạo form chỉnh sửa thông tin người dùng đăng nhập (hoàn thành) (chưa test)
+- Chức năng đổi mật khẩu (hoàn thành) (chưa test)
+- Chức năng thay đổi thông tin cá nhân nhân viên, đổi mật khẩu (hoàn thành)  (chưa test)
